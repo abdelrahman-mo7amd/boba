@@ -21,6 +21,8 @@ header {
     text-align: center;
     margin: 30px;
     border-radius: 30px;
+    width: 550px;
+    margin-left: 32%;
 }
 
 header h1 {
